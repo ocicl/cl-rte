@@ -5,5 +5,5 @@ Common Lisp Regular Type Expressions
 |---------+---------------------------------------------|
 | source  | git:https://github.com/jimka2001/cl-rte.git |
 | commit  | 3476767                                     |
-| systems | rte rte-regexp dispatch                     |
+| systems | dispatch                                    |
 |---------+---------------------------------------------|
